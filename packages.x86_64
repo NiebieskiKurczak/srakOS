@@ -94,7 +94,7 @@ sg3_utils
 smartmontools
 sof-firmware
 squashfs-tools
-sudo
+opendoas
 syslinux
 systemd-resolvconf
 tcpdump
@@ -129,11 +129,7 @@ hyperv
 
 ## DE stuff
 
-xorg
-xorg-server
-budgie
-lightdm
-lightdm-gtk-greeter
+gnome
 
 ## drivers
 
@@ -157,12 +153,6 @@ xorg-xrandr
 
 ## software
 
-konsole
 firefox
-dolphin
-kate
-gwenview
 vlc
-spectacle
-ark
 
