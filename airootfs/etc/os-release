@@ -1,0 +1,6 @@
+NAME=srakOS     
+PRETTY_NAME=srakOS
+ID=srakOS     
+ID_LIKE=srakos  
+BUILD_ID=matterhorn
+LOGO=linux
