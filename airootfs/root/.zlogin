@@ -1,3 +1,6 @@
+# start network manager
+systemctl start NetworkManager.service
+
 pacman -Sy
 
 # install gtk theme
@@ -8,9 +11,6 @@ dbus-launch --exit-with-session gsettings set org.gnome.desktop.interface icon-t
 
 # set gtk theme in gnome
 dbus-launch --exit-with-session gsettings set org.gnome.desktop.interface gtk-theme "Colloid-dark"
-
-# start network manager
-systemctl start NetworkManager.service
 
 # start DE
 startx
