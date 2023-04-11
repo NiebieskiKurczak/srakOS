@@ -108,12 +108,9 @@ usbmuxd
 usbutils
 vim
 vpnc
-wireless-regdb
 wireless_tools
-wpa_supplicant
 wvdial
 xfsprogs
-xl2tpd
 zsh
 
 ## cpu stuff
@@ -122,7 +119,10 @@ amd-ucode
 intel-ucode
 
 ## vms stuff
+
 virtualbox-guest-utils-nox
+xf86-input-vmmouse
+xf86-video-vmware
 qemu-guest-agent
 open-vm-tools
 hyperv
@@ -130,6 +130,9 @@ hyperv
 ## DE stuff
 
 gnome
+gnome-themes-extra
+gtk-engine-murrine
+sassc
 
 ## drivers
 
@@ -156,3 +159,37 @@ xorg-xrandr
 firefox
 vlc
 
+## network
+
+b43-fwcutter
+bind
+dhclient
+dnsmasq
+ethtool
+iwd
+modemmanager
+nbd
+ndisc6
+net-tools
+netctl
+networkmanager
+networkmanager-openconnect
+networkmanager-openvpn
+nss-mdns
+openconnect
+openvpn
+ppp
+pptpclient
+rp-pppoe
+usb_modeswitch
+vpnc
+whois
+wireless-regdb
+wpa_supplicant
+xl2tpd
+
+## bluetooth
+
+bluez
+bluez-utils
+blueman
