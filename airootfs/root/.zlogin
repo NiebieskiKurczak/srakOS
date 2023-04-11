@@ -4,7 +4,7 @@ pacman -Sy
 sh /root/Colloid-gtk-theme-main/install.sh
 
 # set icons in gnome
-dbus-launch --exit-with-session gsettings set org.gnome.desktop.interface icon-theme 'Mkos-Big-Sur-master'
+dbus-launch --exit-with-session gsettings set org.gnome.desktop.interface icon-theme 'Os-Catalina-Night'
 
 # set gtk theme in gnome
 dbus-launch --exit-with-session gsettings set org.gnome.desktop.interface gtk-theme "Colloid-dark"
