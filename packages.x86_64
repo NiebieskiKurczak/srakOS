@@ -193,3 +193,7 @@ xl2tpd
 bluez
 bluez-utils
 blueman
+
+## splash screen
+
+plymouth
