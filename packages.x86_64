@@ -118,8 +118,9 @@ intel-ucode
 ## DE stuff
 
 lightdm
-mate
-mate-media
+budgie-desktop
+budgie-control-center
+network-manager-applet
 alacritty
 
 ## drivers
