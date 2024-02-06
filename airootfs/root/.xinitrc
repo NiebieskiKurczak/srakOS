@@ -1,2 +1,2 @@
-export XDG_CURRENT_DESKTOP=Budgie:GNOME
-exec budgie-desktop
+export DESKTOP_SESSION=plasma
+exec startplasma-x11

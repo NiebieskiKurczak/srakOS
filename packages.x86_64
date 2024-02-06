@@ -117,11 +117,13 @@ intel-ucode
 
 ## DE stuff
 
-lightdm
-budgie-desktop
-budgie-control-center
-network-manager-applet
+sddm
+plasma-meta
 alacritty
+
+## srakOS stuff
+
+calamares
 
 ## drivers
 
